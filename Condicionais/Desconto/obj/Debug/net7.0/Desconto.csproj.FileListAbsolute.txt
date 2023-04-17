@@ -1,0 +1,15 @@
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Desconto\bin\Debug\net7.0\Desconto.exe
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Desconto\bin\Debug\net7.0\Desconto.deps.json
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Desconto\bin\Debug\net7.0\Desconto.runtimeconfig.json
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Desconto\bin\Debug\net7.0\Desconto.dll
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Desconto\bin\Debug\net7.0\Desconto.pdb
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Desconto\obj\Debug\net7.0\Desconto.csproj.AssemblyReference.cache
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Desconto\obj\Debug\net7.0\Desconto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Desconto\obj\Debug\net7.0\Desconto.AssemblyInfoInputs.cache
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Desconto\obj\Debug\net7.0\Desconto.AssemblyInfo.cs
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Desconto\obj\Debug\net7.0\Desconto.csproj.CoreCompileInputs.cache
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Desconto\obj\Debug\net7.0\Desconto.dll
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Desconto\obj\Debug\net7.0\refint\Desconto.dll
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Desconto\obj\Debug\net7.0\Desconto.pdb
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Desconto\obj\Debug\net7.0\Desconto.genruntimeconfig.cache
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Desconto\obj\Debug\net7.0\ref\Desconto.dll

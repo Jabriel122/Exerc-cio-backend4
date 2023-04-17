@@ -1,0 +1,15 @@
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Voto-ano\bin\Debug\net7.0\Voto-ano.exe
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Voto-ano\bin\Debug\net7.0\Voto-ano.deps.json
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Voto-ano\bin\Debug\net7.0\Voto-ano.runtimeconfig.json
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Voto-ano\bin\Debug\net7.0\Voto-ano.dll
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Voto-ano\bin\Debug\net7.0\Voto-ano.pdb
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Voto-ano\obj\Debug\net7.0\Voto-ano.csproj.AssemblyReference.cache
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Voto-ano\obj\Debug\net7.0\Voto-ano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Voto-ano\obj\Debug\net7.0\Voto-ano.AssemblyInfoInputs.cache
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Voto-ano\obj\Debug\net7.0\Voto-ano.AssemblyInfo.cs
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Voto-ano\obj\Debug\net7.0\Voto-ano.csproj.CoreCompileInputs.cache
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Voto-ano\obj\Debug\net7.0\Voto-ano.dll
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Voto-ano\obj\Debug\net7.0\refint\Voto-ano.dll
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Voto-ano\obj\Debug\net7.0\Voto-ano.pdb
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Voto-ano\obj\Debug\net7.0\Voto-ano.genruntimeconfig.cache
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Voto-ano\obj\Debug\net7.0\ref\Voto-ano.dll

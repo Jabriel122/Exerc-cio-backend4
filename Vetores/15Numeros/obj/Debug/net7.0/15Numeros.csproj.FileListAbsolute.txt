@@ -1,0 +1,15 @@
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Vetores\15Numeros\bin\Debug\net7.0\15Numeros.exe
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Vetores\15Numeros\bin\Debug\net7.0\15Numeros.deps.json
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Vetores\15Numeros\bin\Debug\net7.0\15Numeros.runtimeconfig.json
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Vetores\15Numeros\bin\Debug\net7.0\15Numeros.dll
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Vetores\15Numeros\bin\Debug\net7.0\15Numeros.pdb
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Vetores\15Numeros\obj\Debug\net7.0\15Numeros.csproj.AssemblyReference.cache
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Vetores\15Numeros\obj\Debug\net7.0\15Numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Vetores\15Numeros\obj\Debug\net7.0\15Numeros.AssemblyInfoInputs.cache
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Vetores\15Numeros\obj\Debug\net7.0\15Numeros.AssemblyInfo.cs
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Vetores\15Numeros\obj\Debug\net7.0\15Numeros.csproj.CoreCompileInputs.cache
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Vetores\15Numeros\obj\Debug\net7.0\15Numeros.dll
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Vetores\15Numeros\obj\Debug\net7.0\refint\15Numeros.dll
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Vetores\15Numeros\obj\Debug\net7.0\15Numeros.pdb
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Vetores\15Numeros\obj\Debug\net7.0\15Numeros.genruntimeconfig.cache
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Vetores\15Numeros\obj\Debug\net7.0\ref\15Numeros.dll

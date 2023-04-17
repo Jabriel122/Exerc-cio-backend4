@@ -1,0 +1,15 @@
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Repetição\Valores\bin\Debug\net7.0\Valores.exe
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Repetição\Valores\bin\Debug\net7.0\Valores.deps.json
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Repetição\Valores\bin\Debug\net7.0\Valores.runtimeconfig.json
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Repetição\Valores\bin\Debug\net7.0\Valores.dll
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Repetição\Valores\bin\Debug\net7.0\Valores.pdb
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Repetição\Valores\obj\Debug\net7.0\Valores.csproj.AssemblyReference.cache
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Repetição\Valores\obj\Debug\net7.0\Valores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Repetição\Valores\obj\Debug\net7.0\Valores.AssemblyInfoInputs.cache
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Repetição\Valores\obj\Debug\net7.0\Valores.AssemblyInfo.cs
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Repetição\Valores\obj\Debug\net7.0\Valores.csproj.CoreCompileInputs.cache
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Repetição\Valores\obj\Debug\net7.0\Valores.dll
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Repetição\Valores\obj\Debug\net7.0\refint\Valores.dll
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Repetição\Valores\obj\Debug\net7.0\Valores.pdb
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Repetição\Valores\obj\Debug\net7.0\Valores.genruntimeconfig.cache
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Repetição\Valores\obj\Debug\net7.0\ref\Valores.dll

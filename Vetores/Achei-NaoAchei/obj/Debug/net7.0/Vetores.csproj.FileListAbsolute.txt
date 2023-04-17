@@ -1,0 +1,15 @@
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Vetores\Achei-NaoAchei\bin\Debug\net7.0\Vetores.exe
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Vetores\Achei-NaoAchei\bin\Debug\net7.0\Vetores.deps.json
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Vetores\Achei-NaoAchei\bin\Debug\net7.0\Vetores.runtimeconfig.json
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Vetores\Achei-NaoAchei\bin\Debug\net7.0\Vetores.dll
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Vetores\Achei-NaoAchei\bin\Debug\net7.0\Vetores.pdb
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Vetores\Achei-NaoAchei\obj\Debug\net7.0\Vetores.csproj.AssemblyReference.cache
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Vetores\Achei-NaoAchei\obj\Debug\net7.0\Vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Vetores\Achei-NaoAchei\obj\Debug\net7.0\Vetores.AssemblyInfoInputs.cache
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Vetores\Achei-NaoAchei\obj\Debug\net7.0\Vetores.AssemblyInfo.cs
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Vetores\Achei-NaoAchei\obj\Debug\net7.0\Vetores.csproj.CoreCompileInputs.cache
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Vetores\Achei-NaoAchei\obj\Debug\net7.0\Vetores.dll
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Vetores\Achei-NaoAchei\obj\Debug\net7.0\refint\Vetores.dll
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Vetores\Achei-NaoAchei\obj\Debug\net7.0\Vetores.pdb
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Vetores\Achei-NaoAchei\obj\Debug\net7.0\Vetores.genruntimeconfig.cache
+C:\Users\50849167825\Desktop\backend\Exercicio-backend4\Vetores\Achei-NaoAchei\obj\Debug\net7.0\ref\Vetores.dll

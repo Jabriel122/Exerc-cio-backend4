@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "tabu-1-10/1.0.0": {
+        "runtime": {
+          "tabu-1-10.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tabu-1-10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
